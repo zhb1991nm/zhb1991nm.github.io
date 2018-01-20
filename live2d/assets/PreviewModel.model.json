@@ -1,0 +1,183 @@
+{
+  "version": "Live2DViewerEX Config 1.0",
+  "model": "PreviewModel.moc",
+  "textures": [
+    "PreviewModel.1024/texture_00.png",
+    "PreviewModel.1024/texture_01.png",
+    "PreviewModel.1024/texture_02.png",
+    "PreviewModel.1024/texture_03.png",
+    "PreviewModel.1024/texture_04.png",
+    "PreviewModel.1024/texture_05.png",
+    "PreviewModel.1024/texture_06.png",
+    "PreviewModel.1024/texture_07.png",
+    "PreviewModel.1024/texture_08.png"
+  ],
+  "layout": {
+    "center_x": 0.0,
+    "center_y": 0.0,
+    "width": 1.5
+  },
+  "hit_areas": [
+    {
+      "name": "body",
+      "id": ""
+    },
+    {
+      "name": "ear",
+      "id": ""
+    },
+    {
+      "name": "head",
+      "id": ""
+    }
+  ],
+  "motions": {
+    "pinch": [
+      {
+        "file": "motions/pinch/motion 1.mtn"
+      },
+      {
+        "file": "motions/pinch/motion 3.mtn",
+        "sound": "motions/pinch/motion 3.mp3"
+      }
+    ],
+    "idle": [
+      {
+        "file": "motions/idle/idel 1.mtn"
+      },
+      {
+        "file": "motions/idle/idel2.mtn"
+      },
+      {
+        "file": "motions/idle/idle4.mtn"
+      },
+      {
+        "file": "motions/idle/tru2.mtn"
+      }
+    ],
+    "flick": [
+      {
+        "file": "motions/flick/flick1.mtn",
+        "sound": "motions/flick/flick1.mp3"
+      },
+      {
+        "file": "motions/flick/haq.mtn"
+      },
+      {
+        "file": "motions/flick/meow.mtn",
+        "sound": "motions/flick/meow.mp3"
+      },
+      {
+        "file": "motions/flick/meow2.mtn",
+        "sound": "motions/flick/meow2.mp3"
+      },
+      {
+        "file": "motions/flick/motion 3.mtn",
+        "sound": "motions/flick/motion 3.mp3"
+      },
+      {
+        "file": "motions/flick/motion 5.mtn"
+      },
+      {
+        "file": "motions/flick/motion1.mtn",
+        "sound": "motions/flick/motion1.mp3"
+      },
+      {
+        "file": "motions/flick/motion2.mtn",
+        "sound": "motions/flick/motion2.mp3"
+      },
+      {
+        "file": "motions/flick/tap 1.mtn"
+      },
+      {
+        "file": "motions/flick/tap2.mtn",
+        "sound": "motions/flick/tap2.mp3"
+      }
+    ],
+    "shake": [
+      {
+        "file": "motions/shake/angry.mtn"
+      },
+      {
+        "file": "motions/shake/shake R.mtn",
+        "sound": "motions/shake/shake R.mp3"
+      },
+      {
+        "file": "motions/shake/shake UP.mtn",
+        "sound": "motions/shake/shake UP.mp3"
+      },
+      {
+        "file": "motions/shake/shakeL.mtn"
+      }
+    ],
+    "tap_body": [
+      {
+        "file": "motions/tap_body/angry.mtn"
+      },
+      {
+        "file": "motions/tap_body/idle 3.mtn"
+      }
+    ],
+    "tap_head": [
+      {
+        "file": "motions/tap_head/haq.mtn"
+      },
+      {
+        "file": "motions/tap_head/motion 1.mtn"
+      }
+    ],
+    "tap": [
+      {
+        "file": "motions/tap/angry.mtn",
+        "sound": "motions/tap/angry.mp3"
+      },
+      {
+        "file": "motions/tap/aso.mtn",
+        "sound": "motions/tap/aso.mp3"
+      },
+      {
+        "file": "motions/tap/haq.mtn"
+      },
+      {
+        "file": "motions/tap/idle 3.mtn"
+      },
+      {
+        "file": "motions/tap/motion44.mtn",
+        "sound": "motions/tap/motion44.mp3"
+      },
+      {
+        "file": "motions/tap/name1.mtn",
+        "sound": "motions/tap/name1.mp3"
+      }
+    ],
+    "tap_ear": [
+      {
+        "file": "motions/tap_ear/motion 4.mtn"
+      }
+    ]
+  },
+  "expressions": [
+    {
+      "name": "F00.exp.json",
+      "file": "expressions/F00.exp.json"
+    },
+    {
+      "name": "F01.exp.json",
+      "file": "expressions/F01.exp.json"
+    },
+    {
+      "name": "F02.exp.json",
+      "file": "expressions/F02.exp.json"
+    },
+    {
+      "name": "F03.exp.json",
+      "file": "expressions/F03.exp.json"
+    },
+    {
+      "name": "F04.exp.json",
+      "file": "expressions/F04.exp.json"
+    }
+  ],
+  "physics": "physics.json",
+  "pose": "pose.json"
+}

@@ -1,0 +1,17 @@
+{
+	"type":"Live2D Expression",
+	"fade_in":500,
+	"fade_out":500,
+	"params":[
+		{"id":"PARAM_ANGLE_X","val":-20.4},
+		{"id":"PARAM_ANGLE_Y","val":30},
+		{"id":"PARAM_ANGLE_Z","val":30},
+		{"id":"PARAM_EYE_BALL_X","val":1},
+		{"id":"PARAM_mouth_deform","val":1},
+		{"id":"PARAM_CHEEK","val":0.52},
+		{"id":"PARAM_BODY_ANGLE_X","val":-10},
+		{"id":"PARAM_L","val":0.27},
+		{"id":"PARAM_small_armL","val":0.06},
+		{"id":"PARAM_smallarm_R","val":0.3}
+	]
+}

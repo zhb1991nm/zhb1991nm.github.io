@@ -1,0 +1,40 @@
+{
+	"version":"Sample 1.0.0",
+	"model":"PreviewModel.moc",
+	"textures":[
+		"PreviewModel.1024/texture_00",
+		"PreviewModel.1024/texture_01",
+		"PreviewModel.1024/texture_02",
+		"PreviewModel.1024/texture_03",
+		"PreviewModel.1024/texture_04",
+		"PreviewModel.1024/texture_05",
+		"PreviewModel.1024/texture_06",
+		"PreviewModel.1024/texture_07",
+		"PreviewModel.1024/texture_08"
+	],
+	"motions":{
+		"idle":[
+			{"file":"../../../../../practice/动作/idle 3.mtn","fade_in":20,"fade_out":20},
+			{"file":"../../../../../practice/动作/idle4.mtn","fade_in":20,"fade_out":20}
+		],
+		"":[
+			{"file":"../../../../../practice/动作/angry.mtn"},
+			{"file":"../../../../../practice/动作/haq.mtn"},
+			{"file":"../../../../../practice/动作/head.mtn"},
+			{"file":"../../../../../practice/动作/idel 1.mtn","fade_in":20,"fade_out":20},
+			{"file":"../../../../../practice/动作/idel2.mtn","fade_in":20,"fade_out":20},
+			{"file":"../../../../../practice/动作/meow.mtn"},
+			{"file":"../../../../../practice/动作/meow2.mtn"},
+			{"file":"../../../../../practice/动作/motion 1.mtn"},
+			{"file":"../../../../../practice/动作/motion 3.mtn"},
+			{"file":"../../../../../practice/动作/motion 4.mtn"},
+			{"file":"../../../../../practice/动作/motion 5.mtn"},
+			{"file":"../../../../../practice/动作/motion2.mtn"},
+			{"file":"../../../../../practice/动作/shake R.mtn"},
+			{"file":"../../../../../practice/动作/shake UP.mtn"},
+			{"file":"../../../../../practice/动作/shakeL.mtn"}
+		]
+	},
+	"project_settings":"PreviewModel.settings.json",
+	"name":"PreviewModel"
+}
