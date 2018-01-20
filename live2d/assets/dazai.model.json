@@ -2,15 +2,15 @@
 	"version":"Sample 1.0.0",
 	"model":"PreviewModel.moc",
 	"textures":[
-		"PreviewModel.1024/texture_00",
-		"PreviewModel.1024/texture_01",
-		"PreviewModel.1024/texture_02",
-		"PreviewModel.1024/texture_03",
-		"PreviewModel.1024/texture_04",
-		"PreviewModel.1024/texture_05",
-		"PreviewModel.1024/texture_06",
-		"PreviewModel.1024/texture_07",
-		"PreviewModel.1024/texture_08"
+		"PreviewModel.1024/texture_00.png",
+		"PreviewModel.1024/texture_01.png",
+		"PreviewModel.1024/texture_02.png",
+		"PreviewModel.1024/texture_03.png",
+		"PreviewModel.1024/texture_04.png",
+		"PreviewModel.1024/texture_05.png",
+		"PreviewModel.1024/texture_06.png",
+		"PreviewModel.1024/texture_07.png",
+		"PreviewModel.1024/texture_08.png"
 	],
 	"motions":{
 		"idle":[
